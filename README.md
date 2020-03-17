@@ -8,12 +8,12 @@ Course materials for 2020 spring.
 
 * Course Logistics
 
-  * [Lecture Video](https://www.youtube.com/watch?v=Vj142HVRg4s&feature=youtu.be)
+  * [Lecture Video](https://www.youtube.com/watch?v=Vj142HVRg4s&feature=youtu.be#t=0s) (English)
 
 * Intro to NLP
 
-  * [Lecture Video](https://www.youtube.com/watch?v=Vj142HVRg4s&feature=youtu.be)
+  * [Lecture Video](https://www.youtube.com/watch?v=Vj142HVRg4s&feature=youtu.be#t=29m25s) (English)
 
 * Word Embedding
 
-  * [Lecture Video](https://www.youtube.com/watch?v=Vj142HVRg4s&feature=youtu.be)
+  * [Lecture Video](https://www.youtube.com/watch?v=Vj142HVRg4s&feature=youtu.be#t=48m43s) (English)
