@@ -2,6 +2,18 @@
 
 Course materials for 2020 spring.
 
-|Course Name|Date|Description|Video Link|Reference|
-|---|---|---|---|---|
-|Introduction & Word2Vec|20-03-17|Introduction for this class, Word2Vec|[link](https://www.dropbox.com/s/u62bolzyh6qsl80/DeepLearningForNLP_200317.mov?dl=0)| |
+- - -
+
+## 1. 2020/03/17 Course Logistics, Intro to NLP, Word Embedding
+
+* Course Logistics
+
+  * [Lecture Video](https://www.youtube.com/watch?v=Vj142HVRg4s&feature=youtu.be)
+
+* Intro to NLP
+
+  * [Lecture Video](https://www.youtube.com/watch?v=Vj142HVRg4s&feature=youtu.be)
+
+* Word Embedding
+
+  * [Lecture Video](https://www.youtube.com/watch?v=Vj142HVRg4s&feature=youtu.be)
